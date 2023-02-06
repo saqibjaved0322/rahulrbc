@@ -17,7 +17,7 @@
 <li><code>rm -rf rahulrbc </code></li>
 <li><code>git clone --depth=1 https://github.com/Hackerrv33/rahulrbc</code></li>
 <li><code>cd rahulrbc</code></li>
-<li><code>python rbrahul.py</code></li>
+<li><code>python RAHUL.py</code></li>
 </ul>
 <p dir="auto"><em><strong>This Tools is Paid</strong></em><br>
 </p>
